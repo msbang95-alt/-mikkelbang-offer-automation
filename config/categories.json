@@ -1,0 +1,87 @@
+{
+  "search_terms": [
+    "vaskemiddel",
+    "vaskepulver",
+    "vaskekapsler",
+    "skyllemiddel",
+    "rengøring",
+    "rengøringsmiddel",
+    "opvasketabs",
+    "opvaskemiddel",
+    "toiletpapir",
+    "køkkenrulle",
+    "shampoo",
+    "balsam",
+    "deodorant",
+    "håndsæbe",
+    "bodylotion",
+    "personlig pleje",
+    "skønhed",
+    "Nivea ansigtsrens",
+    "kæmpekøb toiletpapir",
+    "kæmpekøb køkkenrulle"
+  ],
+  "excluded_terms": [
+    "ble", "bleer", "babybleer", "baby bleer", "diaper", "diapers", "nappy", "nappies",
+    "libero", "pampers", "huggies", "toujours", "baby dream", "babydream",
+    "oral-b", "colgate", "sensodyne", "parodontax", "jordan", "oral care", "oral-care",
+    "oralcare", "toothbrush", "toothpaste",
+    "mouthwash", "tandpasta", "tandbørste", "tandtråd", "tandpleje", "mundskyl",
+    "eltandbørste", "eltandbørster", "tandbørster", "mundskyld", "mundpleje", "tandblegning",
+    "bind", "tampon", "tamponer", "hygiejnebind", "trusseindlæg", "femcare", "fem care",
+    "feminine care", "always", "tampax", "libresse",
+    "barbercreme", "barberskum", "barberskraber", "barberskrabere", "barberblade",
+    "skraber", "skrabere", "razor", "razors", "gillette"
+  ],
+  "retailers": [
+    {"name": "Coop 365", "slug": "365discount", "coop_page_url": "https://365discount.coop.dk/365avis/", "aliases": ["365discount", "365 discount", "coop 365"]},
+    {"name": "Brugsen", "slug": "Brugsen", "coop_page_url": "https://daglibrugsen.coop.dk/avis/", "aliases": ["brugsen", "dagli brugsen", "daglibrugsen", "dagli'brugsen"]},
+    {"name": "Kvickly", "slug": "Kvickly", "coop_page_url": "https://kvickly.coop.dk/avis/", "aliases": ["kvickly"]},
+    {"name": "SuperBrugsen", "slug": "SuperBrugsen", "coop_page_url": "https://superbrugsen.coop.dk/avis/", "aliases": ["superbrugsen"]},
+    {"name": "Løvbjerg", "slug": "Lovbjerg", "aliases": ["løvbjerg", "lovbjerg"]},
+    {"name": "Meny", "slug": "Meny", "aliases": ["meny"]},
+    {"name": "Min Købmand", "slug": "Min-Kobmand", "aliases": ["min købmand", "min kobmand"]},
+    {"name": "SPAR", "slug": "SPAR", "aliases": ["spar"]},
+    {"name": "Lidl", "slug": "Lidl", "aliases": ["lidl"]},
+    {"name": "Harald Nyborg", "slug": "Harald-Nyborg", "aliases": ["harald nyborg"]},
+    {"name": "Rema 1000", "slug": "REMA-1000", "aliases": ["rema 1000", "rema"]},
+    {"name": "Netto", "slug": "Netto", "aliases": ["netto"]},
+    {"name": "Føtex", "slug": "Fotex", "aliases": ["føtex", "fotex"]},
+    {"name": "Bilka", "slug": "Bilka", "aliases": ["bilka"]}
+  ],
+  "categories": {
+    "Personal care": {
+      "keywords": [
+        "shampoo", "balsam", "hårkur", "hårpleje", "deodorant", "deo",
+        "parfume", "håndsæbe", "ansigtsrens", "ansigtsrensning", "mascara",
+        "håndcreme", "bodylotion", "body lotion", "showergel", "shower gel",
+        "tørshampoo", "hårstyling", "toiletartikler",
+        "lommetørklæde", "lommetørklæder", "papirlommetørklæde", "papirlommetørklæder",
+        "hudpleje", "ansigtspleje", "ansigtscreme", "fugtighedscreme", "fodcreme",
+        "serum", "solcreme", "solbeskyttelse", "intimpleje"
+      ],
+      "brands": [
+        "Palmolive", "Sanex", "Head & Shoulders", "Nivea", "Dove", "Kleenex",
+        "Rexona", "Neutral", "Zalo", "Batiste", "Taft", "Poly Swing", "Tena",
+        "Cien", "Cosrx", "Rimmel"
+      ]
+    },
+    "Home care": {
+      "keywords": [
+        "vask", "vaskemiddel", "vaskepulver", "vaskekapsler", "skyllemiddel",
+        "rengøring", "rengøringsmiddel", "toiletrens", "wc-rens", "opvasketabs",
+        "opvaskemiddel", "opvask", "maskinopvask", "maskinopvaskemiddel",
+        "maskinopvasketabs", "toiletpapir", "køkkenrulle", "affaldsposer",
+        "affaldspose", "stanniol", "alufolie", "aluminiumfolie", "bagepapir",
+        "fryseposer", "frysepose", "alubakker", "alubakke", "aluminiumsbakker",
+        "husholdningsfilm", "mikrofiberklud", "universalrengøring", "madpapir",
+        "opbevaringsposer", "frysefolie"
+      ],
+      "brands": [
+        "Omo", "Vel", "Neophos", "Finish", "Vanish", "Ajax", "Cif", "Duck",
+        "Harpic", "Swiffer", "Fairy", "Lotus", "Lambi", "Godt papir", "Domestos",
+        "Bref"
+      ]
+    }
+  }
+}
